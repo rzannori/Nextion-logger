@@ -1,3 +1,3 @@
-Max Data Nextion Call ; retrive max values from SD .
-Waveforme ; retireve waveform of one calumn from sd file
-temporaneo 2: nextion for waveform
+Master_Nextion_Arduino_GPS_Final_rev
+codice per lettura tramite nextion di dati GPS su SD, valori massimi piu grafico
+in aggiunta codice HMI di nextion
